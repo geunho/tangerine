@@ -69,14 +69,14 @@ a:active {
 
 .Panel { 
   border-style: solid;
-  border-color: #fdfdfd;
+  border-color: #fcf8f0;
   border-radius: 16rem;
   margin: 3px 0 15px 0px;
   max-width: 550px;
   min-width: 270px;
   cursor: pointer;
   color: #555555;
-  background-color: #fdfdfd;
+  background-color: #fcf8f0;
   padding: 2px 15px;
   font-size: calc(10px + 0.5vmin);
   -webkit-box-shadow: 10px 10px 30px -15px rgba(0,0,0,0.75);
